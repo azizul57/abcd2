@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+@media screen and (max-width: 650px){
+    .logo{
+        max-width: 300px;
+        margin: auto
+    }
+    img{
+        width: 100%;
+    }
+    .main{
+        max-width: 300px;
+        margin: auto;
+        border: 1px solid green;
+        text-align: center;
+        margin-top: 1rem;
+    }
+
+}
+.app{
+    color: cornflowerblue;
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+button{
+    font-size: 3rem;
+    color: green;
+    width: 7rem;
+    margin: 20px;
+}
+.thnk{
+    font-size: 3rem;
+    color: rgb(0, 2, 128);
+    width: 10.5rem;
+    margin: 20px;
+    
+}
+.bu{
+    margin-bottom: 100px;
+}
