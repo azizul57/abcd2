@@ -4,103 +4,103 @@ function a(){
 }
 var zb= document.querySelector('.b')
 function b(){
-    zb.innerHTML='A FOR BALL';
+    zb.innerHTML='B FOR BALL';
 }
 var zc= document.querySelector('.c')
 function c(){
-    zc.innerHTML='A FOR CAT';
+    zc.innerHTML='C FOR CAT';
 }
 var zd= document.querySelector('.d')
 function d(){
-    zd.innerHTML='A FOR DALL';
+    zd.innerHTML='D FOR DALL';
 }
 var ze= document.querySelector('.e')
 function e(){
-    ze.innerHTML='A FOR EGG';
+    ze.innerHTML='E FOR EGG';
 }
 var zf= document.querySelector('.f')
 function f(){
-    zf.innerHTML='A FOR FAN';
+    zf.innerHTML='F FOR FAN';
 }
 var zg= document.querySelector('.g')
 function g(){
-    zg.innerHTML='A FOR GIRL';
+    zg.innerHTML='G FOR GIRL';
 }
 var zh= document.querySelector('.h')
 function h(){
-    zh.innerHTML='A FOR HORSE';
+    zh.innerHTML='H FOR HORSE';
 }
 var zi= document.querySelector('.i')
 function i(){
-    zi.innerHTML='A FOR INK';
+    zi.innerHTML='I FOR INK';
 }
 var zj= document.querySelector('.j')
 function j(){
-    zj.innerHTML='A FOR JUG';
+    zj.innerHTML='J FOR JUG';
 }
 var zk= document.querySelector('.k')
 function k(){
-    zk.innerHTML='A FOR KITE';
+    zk.innerHTML='K FOR KITE';
 }
 var zl= document.querySelector('.l')
 function l(){
-    zl.innerHTML='A FOR LION';
+    zl.innerHTML='L FOR LION';
 }
 var zm= document.querySelector('.m')
 function m(){
-    zm.innerHTML='A FOR MANGO';
+    zm.innerHTML='M FOR MANGO';
 }
 var zn= document.querySelector('.n')
 function n(){
-    zn.innerHTML='A FOR NET';
+    zn.innerHTML='N FOR NET';
 }
 var zo= document.querySelector('.o')
 function o(){
-    zo.innerHTML='A FOR ORAGE';
+    zo.innerHTML='O FOR ORAGE';
 }
 var zp= document.querySelector('.p')
 function p(){
-    zp.innerHTML='A FOR PEN';
+    zp.innerHTML='P FOR PEN';
 }
 var zq= document.querySelector('.q')
 function q(){
-    zq.innerHTML='A FOR QUEEN';
+    zq.innerHTML='Q FOR QUEEN';
 }
 var zr= document.querySelector('.r')
 function r(){
-    zr.innerHTML='A FOR RAINBOW';
+    zr.innerHTML='R FOR RAINBOW';
 } 
 var zs= document.querySelector('.s')
 function s(){
-    zs.innerHTML='A FOR SUN';
+    zs.innerHTML='S FOR SUN';
 }
 var zt= document.querySelector('.t')
 function t(){
-    zt.innerHTML='A FOR TIGER';
+    zt.innerHTML='T FOR TIGER';
 }
 var zu= document.querySelector('.u')
 function u(){
-    zu.innerHTML='A FOR UMBELLA';
+    zu.innerHTML='U FOR UMBELLA';
 }
 var zv= document.querySelector('.v')
 function v(){
-    zv.innerHTML='A FOR VIROUS';
+    zv.innerHTML='V FOR VIROUS';
 }
 var zw= document.querySelector('.w')
 function w(){
-    zw.innerHTML='A FOR WINDOW';
+    zw.innerHTML='W FOR WINDOW';
 }
 var zx= document.querySelector('.x')
 function x(){
-    zx.innerHTML='A FOR XA-RAY';
+    zx.innerHTML='X FOR XA-RAY';
 }
 var zy= document.querySelector('.y')
 function y(){
-    zy.innerHTML='A FOR YELLOW';
+    zy.innerHTML='Y FOR YELLOW';
 }
 var zz= document.querySelector('.z')
 function z(){
-    zz.innerHTML='A FOR ZEBRA';
+    zz.innerHTML='Z FOR ZEBRA';
 }
 
 document.querySelectorAll('button')[0].addEventListener('click', play)
